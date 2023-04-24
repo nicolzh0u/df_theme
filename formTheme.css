@@ -1,3 +1,12 @@
 .grayedOut {
     background-color: rgba(204, 213, 217);
 }
+
+/* HEX f5f4cb */
+.lightYellowBg {
+    background-color: rgba(245, 244, 203);
+}
+/* HEX d5f7f7 */
+.lightBlueBg {
+    background-color: rgba(213, 247, 247);
+}
