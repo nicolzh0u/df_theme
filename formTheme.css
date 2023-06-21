@@ -11,6 +11,6 @@
     background-color: rgba(213, 247, 247);
 }
 
-.dd {
+table tr td span {
     min-width: 100px;
 }
