@@ -11,6 +11,16 @@
     background-color: rgba(213, 247, 247);
 }
 
+/* Styles to adjust dd width in table */
 .api-dd span {
     min-width: 100px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    right: 10% !important;
+    left: initial;
+}
+
+.select2-container {
+    display: initial !important;
 }
