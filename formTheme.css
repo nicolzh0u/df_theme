@@ -12,5 +12,5 @@
 }
 
 .dd {
-    width: 50px;
+    min-width: 100px;
 }
