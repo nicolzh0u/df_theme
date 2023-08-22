@@ -24,3 +24,7 @@
 .select2-container {
     display: initial !important;
 }
+
+#txtBearPassNum {
+    text-transform: uppercase !important;
+}
