@@ -24,3 +24,7 @@
 .select2-container {
     display: initial !important;
 }
+
+.customText-bigger {
+    font-size: 14;
+}
