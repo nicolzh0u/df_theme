@@ -28,3 +28,6 @@
 .customText-bigger {
     font-size: 14;
 }
+.makeUpperCase {
+    text-transform: uppercase !important;
+}
