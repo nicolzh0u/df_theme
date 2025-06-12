@@ -31,3 +31,10 @@
 .makeUpperCase {
     text-transform: uppercase !important;
 }
+
+/************** Custom styling for WP **************/
+.horizontalRadio {
+                display: flex; /* Uses flexbox to align items in one row */
+                flex-direction: row; /* Ensures the layout is horizontal */
+                gap: 10px; /* Adds space between radio buttons */
+            }
